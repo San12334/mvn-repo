@@ -611,7 +611,7 @@
                 </configuration>
             </plugin>
             <!-- mvn jetty:run (with hot-redeploy) -->
-            <plugin>
+            <plugini>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
                 <version>9.4.8.v20180619</version>
@@ -717,7 +717,7 @@
                 <plugin>
                     <groupId>org.eclipse.m2e</groupId>
                     <artifactId>lifecycle-mapping</artifactId>
-                    <version>1.0.0</version>
+                    <version>1.0.1</version>
                     <configuration>
                         <lifecycleMappingMetadata>
                             <pluginExecutions>
