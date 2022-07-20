@@ -751,7 +751,7 @@
                                             sql-maven-plugin
                                         </artifactId>
                                         <versionRange>
-                                            [1.5,)
+                                            [1.6,)
                                         </versionRange>
                                         <goals>
                                             <goal>execute</goal>
