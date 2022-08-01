@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>San20</finalName>
+    <finalName>Dev20</finalName>
   </build>
 </project>
