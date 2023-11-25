@@ -35,10 +35,10 @@ height:400px;
 <h1>WELCOME TO DEVOPS TRAINING!</h1>
 
 <br>
-<h2>Contact us:-</h2>
+<h2>Contact me:-</h2>
 
-<h2>Polarapu Prasad</h2>
-<h2>+91-8383917484</h2>
+<h2>santhosh kumarM</h2>
+<h2>+91-7989881039</h2>
 
 </div>
 </div>
