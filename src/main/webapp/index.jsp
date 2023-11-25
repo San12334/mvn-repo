@@ -37,8 +37,8 @@ height:400px;
 <br>
 <h2>Contact us:-</h2>
 
-<h2>Polarapu Prasad</h2>
-<h2>+91-8383917484</h2>
+<h2>Ruthvik</h2>
+<h2>7299812954</h2>
 
 </div>
 </div>
