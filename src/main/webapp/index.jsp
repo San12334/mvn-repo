@@ -37,8 +37,8 @@ height:400px;
 <br>
 <h2>Contact me:-</h2>
 
-<h2>santhosh kumarM</h2>
-<h2>+91-7989881039</h2>
+<h2>Dharshith</h2>
+<h2>7989881039</h2>
 
 </div>
 </div>
